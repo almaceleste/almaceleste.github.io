@@ -1,5 +1,6 @@
 ### my repos
 > [userscripts](/userscripts)  
+> [xfce4-genmon-scripts](/xfce4-genmon-scripts)  
 > [powershell](/powershell)  
 
 ### support me
