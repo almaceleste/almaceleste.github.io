@@ -2,7 +2,6 @@
 > [userscripts](/userscripts)  
 > [xfce4-genmon-scripts](/xfce4-genmon-scripts)  
 > [powershell](/powershell)  
-> [404](/test-404)
 
 ### support me
 [![Beerpay](https://beerpay.io/almaceleste/userscripts/badge.svg?style=beer-square)](https://beerpay.io/almaceleste/userscripts) [![Beerpay](https://beerpay.io/almaceleste/userscripts/make-wish.svg?style=flat-square)](https://beerpay.io/almaceleste/userscripts?focus=wish)
