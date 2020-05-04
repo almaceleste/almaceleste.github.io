@@ -18,5 +18,5 @@
 [![openusercss.org](https://openusercss.org/img/openusercss.icon-x640.png)](https://openusercss.org/profile/5e90dfa66618400c009af3dd 'openusercss.org')
 ### support me
 <!-- [![Beerpay](https://beerpay.io/almaceleste/almaceleste.github.io/badge.svg?style=beer)](https://beerpay.io/almaceleste) [![Beerpay](https://beerpay.io/almaceleste/almaceleste.github.io/make-wish.svg?style=flat)](https://beerpay.io/almaceleste?focus=wish) -->
-[![Ko-fi](/assets/img/Ko-fi_64x64_transparent.png)](https://ko-fi.com/almaceleste "bye me cofee")
+[![Ko-fi](/assets/img/Ko-fi_logo_transparent.png)](https://ko-fi.com/almaceleste "bye me cofee")
 [![](https://img.shields.io/badge/Paypal-donate_me-blue.svg?longCache=true&logo=paypal)](https://www.paypal.me/almaceleste "paypal | donate me")
