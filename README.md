@@ -7,7 +7,7 @@
 > [xfce4-genmon-scripts](/xfce4-genmon-scripts)  
 
 ### my accounts
-[![github.com](https://github.com/fluidicon.png)](https://github.com/almaceleste/userscripts 'github.com')
+[![github.com](https://github.com/fluidicon.png)](https://github.com/almaceleste 'github.com')
 [![linkedin](https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca)](https://www.linkedin.com/in/pcaptanovska/ 'linkedin')
 [![mdn web docs](https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png)](https://wiki.developer.mozilla.org/profiles/almaceleste 'mdn web docs')
 [![stackexchange.com](https://cdn.sstatic.net/Sites/stackexchange/img/favicon.ico)](https://stackexchange.com/users/4255049/almaceleste?tab=accounts 'stackexchange.com')
