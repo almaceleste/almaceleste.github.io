@@ -34,3 +34,156 @@ pre.highlight {
 #my-accounts + p img {
     height: 1.7em !important;
 }
+
+/*default: landscape*/
+@media screen and (min-device-width: 1000px) and (orientation: landscape) {
+    body > .wrapper {
+        width: 800px;
+    }
+    body > .wrapper > header,
+    body > .wrapper > footer {
+        width: 200px;
+    }
+    body > .wrapper > section {
+        width: 600px;
+    }
+}
+
+/* 1280 x 720 */
+@media screen and (min-device-width: 1250px) and (orientation: landscape) {
+    body > .wrapper {
+        width: 1050px;
+    }
+    body > .wrapper > header,
+    body > .wrapper > footer {
+        width: 200px;
+    }
+    body > .wrapper > section {
+        width: 800px;
+    }
+}
+
+/* 1366 x 768 */
+@media screen and (min-device-width: 1330px) and (orientation: landscape) {
+    body > .wrapper {
+        width: 1100px;
+    }
+    body > .wrapper > header,
+    body > .wrapper > footer {
+        width: 225px;
+    }
+    body > .wrapper > section {
+        width: 850px;
+    }
+}
+
+/* 1440 x 900 */
+@media screen and (min-device-width: 1400px) and (orientation: landscape) {
+}
+
+/* 1536 x 864 */
+@media screen and (min-device-width: 1500px) and (orientation: landscape) {
+}
+
+/* 1600 x 900 */
+@media screen and (min-device-width: 1570px) and (orientation: landscape) {
+}
+
+/* 1920 x 1080 */
+@media screen and (min-device-width: 1900px) and (orientation: landscape) {
+    body > .wrapper {
+        width: 1200px;
+    }
+    body > .wrapper > header,
+    body > .wrapper > footer {
+        width: 300px;
+    }
+    body > .wrapper > section {
+        width: 850px;
+    }
+}
+
+/*wxga: landscape*/
+@media screen and (min-device-height: 800px) and (orientation: landscape) {
+}
+
+/*fullhd 1080p+*/
+@media screen and (min-device-height: 1000px) {
+}
+
+/*fullhd 3K+*/
+@media screen and (min-device-height: 1600px) {
+}
+
+/*fullhd 4K+*/
+@media screen and (min-device-height: 2160px) {
+}
+
+/*fullhd 5K+*/
+@media screen and (min-device-height: 2880px) {
+}
+
+/*hdpi*/
+@media screen and (min-device-height: 800px) and (-webkit-device-pixel-ratio: 1.5) {
+}
+
+/*retina*/
+@media screen and (min-device-height: 640px) and (-webkit-device-pixel-ratio: 2.0) {
+}
+
+/*iphone4+*/
+@media screen and (min-device-width: 320px) and (min-device-height: 480px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+}
+
+/*iphone4+: landscape*/
+@media screen and (min-device-width: 480px) and (min-device-height: 320px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+}
+
+/*iphone5+*/
+@media screen and (min-device-width: 320px) and (min-device-height: 568px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+}
+
+/*iphone5+: landscape*/
+@media screen and (min-device-width: 568px) and (min-device-height: 320px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+}
+
+/*iphone6+*/
+@media screen and (min-device-width: 414px) and (min-device-height: 736px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+}
+
+/*iphone6+: landscape*/
+@media screen and (min-device-width: 736px) and (min-device-height: 414px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+}
+
+/*samsung s8 & lg g6+*/
+@media screen and (min-device-width: 360px) and (min-device-height: 720px) and (-webkit-min-device-pixel-ratio: 4) and (orientation: portrait) {
+}
+
+/*samsung s8 & lg g6+: landscape*/
+@media screen and (min-device-width: 720px) and (min-device-height: 360px) and (-webkit-min-device-pixel-ratio: 4) and (orientation: landscape) {
+}
+
+/*iphoneX+*/
+@media screen and (min-device-width: 375px) and (min-device-height: 812px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: portrait) {
+}
+
+/*iphoneX+: landscape*/
+@media screen and (min-device-width: 812px) and (min-device-height: 375px) and (-webkit-min-device-pixel-ratio: 3) and (orientation: landscape) {
+}
+
+/*ipad+*/
+@media screen and (min-device-width: 768px) and (min-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 1) and (orientation: portrait) {
+}
+
+/*ipad+: landscape*/
+@media screen and (min-device-width: 1024px) and (min-device-height: 768px) and (-webkit-min-device-pixel-ratio: 1) and (orientation: landscape) {
+}
+
+/*ipadpro+*/
+@media screen and (min-device-width: 1024px) and (min-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) {
+}
+
+/*ipadpro+ - landscape*/
+@media screen and (min-device-width: 1366px) and (min-device-height: 1024px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) {
+
+}
