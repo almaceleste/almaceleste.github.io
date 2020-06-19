@@ -4,34 +4,33 @@
 @import "{{ site.theme }}";
 
 a:hover {
-    color: deepskyblue;
-    font-weight: unset;
-    text-shadow: 0 0 1px #111, 0 0 3px #111, 0 0 5px #111, 0 0 5px #111;
+    color: deepskyblue !important;
+    font-weight: unset !important;
+    text-shadow: 0 0 1px #111, 0 0 3px #111, 0 0 5px #111, 0 0 5px #111 !important;
 }
 a img:hover {
-    filter: drop-shadow(0 0 3px deepskyblue);
+    filter: drop-shadow(0 0 3px deepskyblue) !important;
 }
 a small {
-    color: #999;
+    color: #999 !important;
 }
 body {
-    background-color: #333;
-    color: lightgray;
-    text-shadow: 0 0 1px #222, 0 0 3px #222, 0 0 5px #222, 0 0 5px #222;
+    background-color: #333 !important;
+    color: lightgray !important;
+    text-shadow: 0 0 1px #222, 0 0 3px #222, 0 0 5px #222, 0 0 5px #222 !important;
 }
 code {
-    color: navajowhite;
+    color: navajowhite !important;
 }
 h3, h4, h5, h6 {
-    color: lightgray;
+    color: lightgray !important;
 }
 h4 img {
-    height: 16px;
+    height: 16px !important;
 }
 pre.highlight {
-    background-color: #555;
+    background-color: #555 !important;
 }
 #my-accounts + p img {
-    height: 1.7em;
-    width: 1.7em;
+    height: 1.7em !important;
 }
