@@ -1,7 +1,7 @@
 ---
 ---
 
-{% include head.html %}
+<!-- {% include head.html %} -->
 <!-- {% include nav.html %} -->
 
 ### my repos
