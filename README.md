@@ -1,4 +1,7 @@
-{% include head.html %}
+---
+---
+
+{% include head.html }
 
 ### my repos
 > [configure-hibernate](/configure-hibernate)  
