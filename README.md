@@ -2,7 +2,7 @@
 ---
 
 {% include head.html %}
-{% include nav.html %}
+<!-- {% include nav.html %} -->
 
 ### my repos
 > [configure-hibernate](/configure-hibernate)  
