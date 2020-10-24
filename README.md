@@ -1,7 +1,8 @@
 ---
 ---
 
-{% include head.html }
+{% include head.html %}
+{% include nav.html %}
 
 ### my repos
 > [configure-hibernate](/configure-hibernate)  
