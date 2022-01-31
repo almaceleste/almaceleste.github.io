@@ -12,10 +12,10 @@
 ### my accounts
 [![github.com](https://github.com/fluidicon.png)](https://github.com/almaceleste 'github.com')
 [![linkedin](https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca)](https://www.linkedin.com/in/pcaptanovska/ 'linkedin')
-[![mdn web docs](https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png)](https://wiki.developer.mozilla.org/profiles/almaceleste 'mdn web docs')
+<!-- [![mdn web docs](https://developer.mozilla.org/static/img/favicon32.7f3da72dcea1.png)](https://wiki.developer.mozilla.org/profiles/almaceleste 'mdn web docs') -->
 [![stackexchange.com](https://cdn.sstatic.net/Sites/stackexchange/img/favicon.ico)](https://stackexchange.com/users/4255049/almaceleste?tab=accounts 'stackexchange.com')
 [![powershellgallery.com](https://www.powershellgallery.com/favicon.ico)](https://www.powershellgallery.com/profiles/almaceleste 'powershellgallery.com')
-[![greasyfork.org](https://greasyfork.org/assets/blacklogo96-e0c2c76180916332b7516ad47e1e206b42d131d36ff4afe98da3b1ba61fd5d6c.png)](https://greasyfork.org/en/users/174037-almaceleste 'greasyfork.org')
+[![greasyfork.org](https://greasyfork.org/packs/media/images/blacklogo96-b2384000fca45aa17e45eb417cbcbb59.png)](https://greasyfork.org/en/users/174037-almaceleste 'greasyfork.org')
 [![openuserjs.org](https://openuserjs.org/images/favicon.ico)](https://openuserjs.org/users/almaceleste/scripts 'openuserjs.org')
 [![userstyles.org](https://userstyles.org/ui/images/icons/favicon.png)](https://userstyles.org/users/903337 'userstyles.org')
 <!-- [![openusercss.org](https://openusercss.org/img/openusercss.icon-x640.png)](https://openusercss.org/profile/5e90dfa66618400c009af3dd 'openusercss.org') -->
