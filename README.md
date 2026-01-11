@@ -1,5 +1,3 @@
-<!-- {% include head.html %} -->
-<!-- {% include nav.html %} -->
 # home
 
 ## my repos
